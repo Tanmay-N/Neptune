@@ -1,9 +1,14 @@
 
-# Neptune The Recon Tool
+# Neptune - The Recon Tool
 
  Neptune is a script written in Bash. it is intended to automate some tedious tasks of reconnaissance and information gathering 
 
-# Main Features
+## Usage
+```
+Bash Neptune.sh 
+```
+
+## Main Features
 - Create a dated folder with recon notes 
 
 - Grab subdomains using: (Directory search module is now MULTITHREADED (up to 10 subdomains scanned at a time))
@@ -31,7 +36,7 @@ crt, warchive, amass, subfinder, threatcrowd, hackertarget, virustotal, gau, dns
 
 - Improved reporting and less output while doing the work
 
-# Installation & Requirements
+## Installation & Requirements
 
 * Run installation Script 
  ```
