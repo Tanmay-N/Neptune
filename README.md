@@ -5,7 +5,7 @@
 
 ## Usage
 ```
-Bash Neptune.sh 
+$ Bash Neptune.sh 
 ```
 
 ## Main Features
@@ -40,7 +40,8 @@ crt, warchive, amass, subfinder, threatcrowd, hackertarget, virustotal, gau, dns
 
 * Run installation Script 
  ```
- .\install.sh 
+ $ cd Intstall
+ $ Bash install.sh 
  ```
 
  **Warning:** This code was originally created for personal use, it generates a substantial amount of traffic, please use with caution.
