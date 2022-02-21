@@ -1,5 +1,5 @@
 
-# Neptune - The Recon Tool
+# Neptune - Attack Surface Management
 
  Neptune is a script written in Bash. it is intended to automate some tedious tasks of reconnaissance and information gathering 
 
